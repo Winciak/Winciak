@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winciak
+- 👋 Hi, I’m  Paweł Gliński aka @Winciak
 - 👀 I’m interested in Java, Spring specifically. 
 - 🌱 I’m currently learning more Java and some Unity
 - 💞️ I’m looking for internship in technolgies listed above ;]
